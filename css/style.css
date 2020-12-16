@@ -15,9 +15,12 @@ header {
     justify-content: space-between;
     padding: 20px 60px;
 }
-.logo {height: 100%;}
+.logo {
+    height: 100%;
+    min-height: 60px;
+}
 .contact-button {
-    height: 50%;
+    height: 60px;
     width: 200px;
     font-size: 30px;
     background-color: transparent;
@@ -81,9 +84,14 @@ section {
     margin-right: auto;
     width: 70%;
     background-color: white;
-    border: 1px solid gray;
+    border: 1px solid lightgray;
     border-radius: 40px;
 }
 .skills div {
     text-align: center;
+    padding: 60px;
+    font-size: 30px;
+}
+.front-skills {
+    border-right: 1px solid lightgray;
 }
