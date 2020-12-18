@@ -240,7 +240,7 @@ footer p {
         padding: 40px;
     }
 }
-/* Tablet MEDIA QUERIES */
+/* Phone MEDIA QUERIES */
 @media (max-width: 768px) {
     html {font-size: .8px;}
     header {
