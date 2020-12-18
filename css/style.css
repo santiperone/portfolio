@@ -116,6 +116,9 @@ ul {
     position: relative;
     top: -150px;
 }
+.mywork h2 {
+    font-size: 30rem;
+}
 .works {
     display: flex;
     flex-wrap: wrap;
